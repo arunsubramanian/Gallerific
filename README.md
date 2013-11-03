@@ -21,7 +21,7 @@ Or install it yourself as:
 This gem contains
 
  CSS: basic.css, black.css, galleriffic-1.css, galleriffic-2.css, galleriffic-3.css, galleriffic-4.css, galleriffic-5.css, jush.css, white.css \n
- JS: jquery.galleriffic.js, jquery.history.js, jquery.opacityrollover.js, jush.js and jquery 1.3.2.js (if needed).
+ JS: jquery.galleriffic.js, jquery.history.js, jquery.opacityrollover.js, jush.js and jquery 1.3.2.js.
 
  Include the appropriate javascript and css file in your application.js and application.css respectively as outlined in the documentation.
 
